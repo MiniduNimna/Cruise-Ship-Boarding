@@ -1,0 +1,15 @@
+
+-------	Cabin Data	-------
+
+Cabin 0 occupied by e
+Cabin 1 occupied by e
+Cabin 2 occupied by e
+Cabin 3 occupied by e
+Cabin 4 occupied by e
+Cabin 5 occupied by e
+Cabin 6 occupied by e
+Cabin 7 occupied by e
+Cabin 8 occupied by e
+Cabin 9 occupied by e
+Cabin 10 occupied by e
+Cabin 11 occupied by e

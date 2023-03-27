@@ -1,0 +1,15 @@
+
+-------	Cabin Data	-------
+
+Cabin 0 occupied by e e , e e , e e
+Cabin 1 occupied by NIMNA NARANGODA , e e , e e
+Cabin 2 occupied by e e , e e , e e
+Cabin 3 occupied by e e , e e , e e
+Cabin 4 occupied by e e , e e , e e
+Cabin 5 occupied by e e , e e , e e
+Cabin 6 occupied by e e , e e , e e
+Cabin 7 occupied by e e , e e , e e
+Cabin 8 occupied by e e , e e , e e
+Cabin 9 occupied by e e , e e , e e
+Cabin 10 occupied by e e , e e , e e
+Cabin 11 occupied by e e , e e , e e
